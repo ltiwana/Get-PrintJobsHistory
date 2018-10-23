@@ -1,6 +1,7 @@
 # GetPrinteJobsHistory
+## Retrieves Print Jobs history from Windows Print Server using Powershell
 
-The script will give you following details about print job:
+This script will give you following details about print jobs:
 * TimeCreate (Time of the print jobs)
 * PrinterName (Name of the printer)
 * UserName (User who sent the print job)
