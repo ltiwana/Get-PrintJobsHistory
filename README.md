@@ -1,4 +1,4 @@
-# Get-PrinteJobsHistory
+# Get-PrintJobsHistory
 ## Retrieves Print Jobs history from Windows Print Server using Powershell
 
 This script will give you following details about print jobs:
