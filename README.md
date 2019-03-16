@@ -28,3 +28,5 @@ This script will give you following details about print jobs:
 
 ### List view
 ![alt text](/Media/img4.png)
+
+Check out the article [here](https://www.linkedin.com/pulse/get-print-job-history-server-using-powershell-loveparteek-tiwana/)
