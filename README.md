@@ -1,6 +1,10 @@
 # Get-PrintJobsHistory
 ## Retrieves Print Jobs history from Windows Print Server using Powershell
 
+Are you looking to get information on what print jobs are sent to your Windows Print Servers? I was in the same situation, and soon I found out that all this information is available in the Windows Event Viewer.
+
+So I built a small PowerShell script that can scrap the Event Viewer and make Print Jobs available in an object, table or report form.
+
 This script will give you following details about print jobs:
 * TimeCreate (Time of the print jobs)
 * PrinterName (Name of the printer)
